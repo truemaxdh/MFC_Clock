@@ -1,0 +1,53 @@
+<html>
+<body>
+<pre>
+<h1>ﾋﾞﾙﾄﾞのﾛｸﾞ</h1>
+<h3>
+--------------------構成: Clock - Win32 Debug--------------------
+</h3>
+<h3>ｺﾏﾝﾄﾞ ﾗｲﾝ</h3>
+Creating command line "rc.exe /l 0x411 /fo"Debug/Clock.res" /d "_DEBUG" /d "_AFXDLL" "D:\maxdh\myMade\Clock\Clock.rc"" 
+一時ﾌｧｲﾙ "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP18.tmp" を作成し、次の内容を記録します
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/Clock.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\maxdh\myMade\Clock\ClockDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP18.tmp" 
+ｺﾏﾝﾄﾞ ﾗｲﾝ "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Clock.pdb" /debug /machine:I386 /out:"Debug/Clock.exe" /pdbtype:sept  .\Debug\Clock.obj .\Debug\ClockDlg.obj .\Debug\MainFrm.obj .\Debug\StdAfx.obj .\Debug\TrayIcon.obj .\Debug\Clock.res " の作成中
+<h3>ｱｳﾄﾌﾟｯﾄ ｳｨﾝﾄﾞｳ</h3>
+ﾘｿｰｽをｺﾝﾊﾟｲﾙ中...
+ｺﾝﾊﾟｲﾙ中...
+ClockDlg.cpp
+D:\maxdh\myMade\Clock\ClockDlg.cpp(164) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(164) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(164) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(164) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(170) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(170) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(170) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(170) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(181) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(181) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(182) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(182) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(183) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(183) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(184) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(184) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(185) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(185) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(186) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(186) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(191) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(191) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(193) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+D:\maxdh\myMade\Clock\ClockDlg.cpp(193) : warning C4244: 'argument' : 'double' から 'int' に変換しました。ﾃﾞｰﾀが失われているかもしれません。
+ﾘﾝｸ中...
+
+
+
+<h3>結果</h3>
+Clock.exe - ｴﾗｰ 0、警告 24
+</pre>
+</body>
+</html>
